@@ -18,3 +18,13 @@
     opacity: 0.4;
     z-index: -1;
 }
+main{
+    background-color: aqua;
+}
+footer{
+    background-color: black;
+    position: absolute;
+    opacity: 35;
+    text-align: center;
+    background-size: cover;
+}
